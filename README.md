@@ -1,3 +1,8 @@
+Arquivo base https://colab.research.google.com/drive/1RYhOnqw2Yzb_YPYcvU7raShNEQ51vOmi#scrollTo=5841ef62
+
+Canal do youtube: 
+
+
 - 👋 Hi, I’m @Adrianodtss
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
